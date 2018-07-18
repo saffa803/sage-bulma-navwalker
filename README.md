@@ -25,7 +25,7 @@ public function primarymenu() {
   $args = array(
     'theme_location'    => 'primary_navigation',
     ...
-    'walker'            => new wp_bulma_navwalker()
+    'walker'            => new \App\wp_bulma_navwalker()
   );
   return $args;
 }
