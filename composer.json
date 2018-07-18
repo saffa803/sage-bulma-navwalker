@@ -1,0 +1,17 @@
+{
+  "name": "saffa803/sage-bulma-navwalker",
+  "description": "Bulma Navbar component navwalker for Sage 9 based themes",
+  "keywords": ["wordpress", "bulma", "navwalker", "navbar"],
+  "homepage": "https://github.com/saffa803/sage-bulma-navwalker",
+  "license": "MIT",
+  "authors": [{
+    "name": "Mike Sasnovski",
+    "email": "mike@craftedbyninjas.com"
+  }],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "files": ["bulma-navwalker.php"]
+  }
+}
